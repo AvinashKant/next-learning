@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <div className="text-center top-10">
-        Start learning next
+        Start
       </div>
     </>
   );
